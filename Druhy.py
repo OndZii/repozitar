@@ -1,0 +1,1 @@
+print("Uz funguje i tohle")
