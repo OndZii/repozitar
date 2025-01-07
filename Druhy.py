@@ -1,1 +1,1 @@
-print("Uz funguje i tohle")
+print("Uz funguje i tohlee)
